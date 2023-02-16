@@ -1,0 +1,17 @@
+C:\MeusEstudos\Coti Informatica\Entrevista\GestaoDeProdutos\GestaoDeProdutos.Application\bin\Debug\net6.0\GestaoDeProdutos.Application.deps.json
+C:\MeusEstudos\Coti Informatica\Entrevista\GestaoDeProdutos\GestaoDeProdutos.Application\bin\Debug\net6.0\GestaoDeProdutos.Application.dll
+C:\MeusEstudos\Coti Informatica\Entrevista\GestaoDeProdutos\GestaoDeProdutos.Application\bin\Debug\net6.0\GestaoDeProdutos.Application.pdb
+C:\MeusEstudos\Coti Informatica\Entrevista\GestaoDeProdutos\GestaoDeProdutos.Application\bin\Debug\net6.0\GestaoDeProdutos.Domain.Core.dll
+C:\MeusEstudos\Coti Informatica\Entrevista\GestaoDeProdutos\GestaoDeProdutos.Application\bin\Debug\net6.0\GestaoDeProdutos.Domain.dll
+C:\MeusEstudos\Coti Informatica\Entrevista\GestaoDeProdutos\GestaoDeProdutos.Application\bin\Debug\net6.0\GestaoDeProdutos.Domain.pdb
+C:\MeusEstudos\Coti Informatica\Entrevista\GestaoDeProdutos\GestaoDeProdutos.Application\bin\Debug\net6.0\GestaoDeProdutos.Domain.Core.pdb
+C:\MeusEstudos\Coti Informatica\Entrevista\GestaoDeProdutos\GestaoDeProdutos.Application\obj\Debug\net6.0\GestaoDeProdutos.Application.csproj.AssemblyReference.cache
+C:\MeusEstudos\Coti Informatica\Entrevista\GestaoDeProdutos\GestaoDeProdutos.Application\obj\Debug\net6.0\GestaoDeProdutos.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\MeusEstudos\Coti Informatica\Entrevista\GestaoDeProdutos\GestaoDeProdutos.Application\obj\Debug\net6.0\GestaoDeProdutos.Application.AssemblyInfoInputs.cache
+C:\MeusEstudos\Coti Informatica\Entrevista\GestaoDeProdutos\GestaoDeProdutos.Application\obj\Debug\net6.0\GestaoDeProdutos.Application.AssemblyInfo.cs
+C:\MeusEstudos\Coti Informatica\Entrevista\GestaoDeProdutos\GestaoDeProdutos.Application\obj\Debug\net6.0\GestaoDeProdutos.Application.csproj.CoreCompileInputs.cache
+C:\MeusEstudos\Coti Informatica\Entrevista\GestaoDeProdutos\GestaoDeProdutos.Application\obj\Debug\net6.0\GestaoDeProdutos.Application.csproj.CopyComplete
+C:\MeusEstudos\Coti Informatica\Entrevista\GestaoDeProdutos\GestaoDeProdutos.Application\obj\Debug\net6.0\GestaoDeProdutos.Application.dll
+C:\MeusEstudos\Coti Informatica\Entrevista\GestaoDeProdutos\GestaoDeProdutos.Application\obj\Debug\net6.0\refint\GestaoDeProdutos.Application.dll
+C:\MeusEstudos\Coti Informatica\Entrevista\GestaoDeProdutos\GestaoDeProdutos.Application\obj\Debug\net6.0\GestaoDeProdutos.Application.pdb
+C:\MeusEstudos\Coti Informatica\Entrevista\GestaoDeProdutos\GestaoDeProdutos.Application\obj\Debug\net6.0\ref\GestaoDeProdutos.Application.dll

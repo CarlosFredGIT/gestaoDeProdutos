@@ -1,0 +1,12 @@
+C:\MeusEstudos\Coti Informatica\Entrevista\GestaoDeProdutos\GestaoDeProdutos.Domain.Core\bin\Debug\net6.0\GestaoDeProdutos.Domain.Core.deps.json
+C:\MeusEstudos\Coti Informatica\Entrevista\GestaoDeProdutos\GestaoDeProdutos.Domain.Core\bin\Debug\net6.0\GestaoDeProdutos.Domain.Core.dll
+C:\MeusEstudos\Coti Informatica\Entrevista\GestaoDeProdutos\GestaoDeProdutos.Domain.Core\bin\Debug\net6.0\GestaoDeProdutos.Domain.Core.pdb
+C:\MeusEstudos\Coti Informatica\Entrevista\GestaoDeProdutos\GestaoDeProdutos.Domain.Core\obj\Debug\net6.0\GestaoDeProdutos.Domain.Core.csproj.AssemblyReference.cache
+C:\MeusEstudos\Coti Informatica\Entrevista\GestaoDeProdutos\GestaoDeProdutos.Domain.Core\obj\Debug\net6.0\GestaoDeProdutos.Domain.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\MeusEstudos\Coti Informatica\Entrevista\GestaoDeProdutos\GestaoDeProdutos.Domain.Core\obj\Debug\net6.0\GestaoDeProdutos.Domain.Core.AssemblyInfoInputs.cache
+C:\MeusEstudos\Coti Informatica\Entrevista\GestaoDeProdutos\GestaoDeProdutos.Domain.Core\obj\Debug\net6.0\GestaoDeProdutos.Domain.Core.AssemblyInfo.cs
+C:\MeusEstudos\Coti Informatica\Entrevista\GestaoDeProdutos\GestaoDeProdutos.Domain.Core\obj\Debug\net6.0\GestaoDeProdutos.Domain.Core.csproj.CoreCompileInputs.cache
+C:\MeusEstudos\Coti Informatica\Entrevista\GestaoDeProdutos\GestaoDeProdutos.Domain.Core\obj\Debug\net6.0\GestaoDeProdutos.Domain.Core.dll
+C:\MeusEstudos\Coti Informatica\Entrevista\GestaoDeProdutos\GestaoDeProdutos.Domain.Core\obj\Debug\net6.0\refint\GestaoDeProdutos.Domain.Core.dll
+C:\MeusEstudos\Coti Informatica\Entrevista\GestaoDeProdutos\GestaoDeProdutos.Domain.Core\obj\Debug\net6.0\GestaoDeProdutos.Domain.Core.pdb
+C:\MeusEstudos\Coti Informatica\Entrevista\GestaoDeProdutos\GestaoDeProdutos.Domain.Core\obj\Debug\net6.0\ref\GestaoDeProdutos.Domain.Core.dll

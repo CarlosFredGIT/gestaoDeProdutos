@@ -1,0 +1,7 @@
+C:\MeusEstudos\Coti Informatica\Entrevista\GestaoDeProdutos\GestaoDeProdutos.Services.Api\obj\Debug\net5.0\GestaoDeProdutos.Services.Api.csproj.AssemblyReference.cache
+C:\MeusEstudos\Coti Informatica\Entrevista\GestaoDeProdutos\GestaoDeProdutos.Services.Api\obj\Debug\net5.0\GestaoDeProdutos.Services.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\MeusEstudos\Coti Informatica\Entrevista\GestaoDeProdutos\GestaoDeProdutos.Services.Api\obj\Debug\net5.0\GestaoDeProdutos.Services.Api.AssemblyInfoInputs.cache
+C:\MeusEstudos\Coti Informatica\Entrevista\GestaoDeProdutos\GestaoDeProdutos.Services.Api\obj\Debug\net5.0\GestaoDeProdutos.Services.Api.AssemblyInfo.cs
+C:\MeusEstudos\Coti Informatica\Entrevista\GestaoDeProdutos\GestaoDeProdutos.Services.Api\obj\Debug\net5.0\GestaoDeProdutos.Services.Api.csproj.CoreCompileInputs.cache
+C:\MeusEstudos\Coti Informatica\Entrevista\GestaoDeProdutos\GestaoDeProdutos.Services.Api\obj\Debug\net5.0\GestaoDeProdutos.Services.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\MeusEstudos\Coti Informatica\Entrevista\GestaoDeProdutos\GestaoDeProdutos.Services.Api\obj\Debug\net5.0\GestaoDeProdutos.Services.Api.MvcApplicationPartsAssemblyInfo.cache
